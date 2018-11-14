@@ -1,0 +1,6 @@
+"customer","max_quant","products","max_date","state","min_quant","products-2","min_date","state-2","avgc"
+"Bloom",4972,"Eggs","1/3/2004","NJ",17,"Yogurt","7/25/2004","PA","2457"
+"Emily",4986,"Milk","11/12/2002","NY",26,"Milk","7/2/2008","CT","2512"
+"Helen",4969,"Butter","6/4/2001","NY",77,"Milk","4/9/2000","NY","2301"
+"Knuth",4994,"Cookies","7/17/2003","CT",24,"Fruits","8/26/2001","NY","2303"
+"Sam",4954,"Soap","4/6/2003","PA",93,"Bread","11/13/2008","PA","2385"
